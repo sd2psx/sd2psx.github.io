@@ -15,11 +15,14 @@ SD2PSX stores virtual memory cards on a microSD card (mandatory). The 128x64 pix
 
 ## What can SD2PSX do?
 
-- Create virtual memory cards (128KiB) for PS1 game saves; compatible with both PS1 and PS2
-- Create virtual memory cards (8MiB) for PS2 game saves; compatible with PS2, PSX, and arcade systems
-- PS1: Launch FreePSXBoot with Unirom or Tonyhax
-- PS2: Launch FreeMCBoot, OpenTuna, and other exploits
-- More features coming in the future!
+* PlayStation 1 support
+  * Create virtual memory cards (128KiB) for PS1 game saves; compatible with both PS1 and PS2
+  * Launch FreePSXBoot with Unirom or Tonyhax
+  * Automatically switch to the correct card when paired with a compatible ODE system
+* PlayStation 2 support
+  * Create virtual memory cards (8MiB) for PS2 game saves; compatible with PS2, PSX, and arcade systems
+  * Launch FreeMCBoot, OpenTuna, and other exploits
+* Fully open source and open hardware with more features coming in the future!
 
 ## How can I get one?
 
