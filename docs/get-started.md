@@ -10,6 +10,7 @@ In order to set up an SD2PSX card, follow these steps in order:
 1. [Format your microSD card](format-microsd)
 1. [Learn to navigate the menu](navigation)
 1. [For PS2 only: Deploy CIV](deploy-civ)
+1. [For PS2 only: Set up a softmod exploit](ps2-exploit)
 
 ## Help and support
 
