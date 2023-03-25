@@ -12,7 +12,8 @@ module.exports = {
           '/update-firmware.html',
           '/format-microsd.html',
           '/navigation.html',
-          '/deploy-civ.html'
+          '/deploy-civ.html',
+          '/ps2-exploit.html'
         ]
       }
     ]
