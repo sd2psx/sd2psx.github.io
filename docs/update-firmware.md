@@ -8,7 +8,11 @@ To update SD2PSX firmware to the latest version, follow the steps described belo
 
 ## Download the latest firmware
 
-Visit [GitHub releases](https://github.com/sd2psx/firmware/releases) to download the latest firmware. Click on the "Assets" text to expand the list, then click on "sd2psx.uf2" to download the latest firmware build.
+::: tip
+For the latest and currently actively developed firmware, visit the [sd2psXtd project page](https://sd2psxtd.github.io/).
+:::
+
+Visit [GitHub releases](https://github.com/sd2psx/firmware/releases) to download the SD2PSX firmware. Click on the "Assets" text to expand the list, then click on "sd2psx.uf2" to download the latest firmware build.
 
 ## Reboot SD2PSX into the download mode
 
